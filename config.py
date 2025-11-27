@@ -22,7 +22,7 @@ YTUB_COOKIES = """
 # ─── BOT / DATABASE CONFIG ──────────────────────────────────────────────────────
 API_ID       = os.getenv("API_ID", "22849789")
 API_HASH     = os.getenv("API_HASH", "0fc127c6055acd59f00ec6c229e1e3c4")
-BOT_TOKEN    = os.getenv("BOT_TOKEN", "8073376662:AAFkXPoHXgkCS6dSSqE3irCwjTUjT24kq8M")
+BOT_TOKEN    = os.getenv("BOT_TOKEN", "8430070081:AAGIxjiDamadqicd1kyV0ztb6m_zVZC6u94")
 MONGO_DB     = os.getenv("MONGO_DB", "mongodb+srv://yashxug:Yash2835P@yashxug.om3yk1q.mongodb.net/retryWrites=true&w=majority&appName=Yashxug")
 DB_NAME      = os.getenv("DB_NAME", "Yashxug")
 
@@ -76,4 +76,5 @@ P0 = {
 # ════════════════════════════════════════════════════════════════════════════════
 # ░ DEVGAGAN
 # ════════════════════════════════════════════════════════════════════════════════
+
 
