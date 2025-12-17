@@ -29,7 +29,7 @@ DB_NAME      = os.getenv("DB_NAME", "Yashxug")
 # ─── OWNER / CONTROL SETTINGS ───────────────────────────────────────────────────
 OWNER_ID     = list(map(int, os.getenv("OWNER_ID", "7296271316").split()))  # space-separated list
 STRING       = os.getenv("STRING", None)  # optional session string
-LOG_GROUP    = int(os.getenv("LOG_GROUP", "-1003494687593"))
+LOG_GROUP    = int(os.getenv("LOG_GROUP", "-1003652327585"))
 FORCE_SUB    = int(os.getenv("FORCE_SUB", "-1003494687593"))
 
 # ─── SECURITY KEYS ──────────────────────────────────────────────────────────────
@@ -76,6 +76,7 @@ P0 = {
 # ════════════════════════════════════════════════════════════════════════════════
 # ░ DEVGAGAN
 # ════════════════════════════════════════════════════════════════════════════════
+
 
 
 
